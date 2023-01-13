@@ -8,3 +8,5 @@ win.mainloop()
 '''
 
 import this   # Python 철학 같은거...
+
+#git 불러오고 수정하는 자업 하는 중///
